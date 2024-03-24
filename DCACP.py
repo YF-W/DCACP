@@ -3,6 +3,18 @@ import AntRun
 import dataPreprocessing
 import numpy as np
 
+"""
+DCACP
+
+Proposed By Shijie Zeng, Yufei Wang
+Chengdu University
+2022. 4
+
+"""
+"""For research and clinical study only, commercial use is strictly prohibited"""
+
+
+
 def antModel(data, round, niu, k, alpha, beta,ant_num,n_cluster,type):
     """
     :param data: data set
