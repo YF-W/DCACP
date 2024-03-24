@@ -6,6 +6,9 @@ A Dyeing Clustering Algorithm based on Ant Colony Path-finding
 
 Inspired by bionics, this study proposed a new clustering method called *DCACP*. Different from the traditional clustering method, this method refers to the phenomenon of food around the ant foraging in nature, and uses ant colony behavior, pheromone and other ideas for clustering. 
 
+## Authors:
+Shijie Zeng, Yuefei Wang, et al.
+
 ## Install
 
 Installing **DCACP** package with pip command
